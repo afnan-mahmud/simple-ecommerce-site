@@ -1,0 +1,26 @@
+.header img{
+    height: 80px;
+}
+.header{
+    text-align: center;
+}
+nav{
+    margin-top: 10px;
+    line-height: 40px;
+    background-color: rgb(0, 0, 0);
+    justify-content: center;
+    text-align: left;
+    font-size: large;
+}
+nav a{
+    text-decoration: none;
+    color: azure;
+    margin-right: 20px;
+    padding: 10px;
+}
+a:hover{
+    background-color: gray;
+}
+form{
+    float: right;
+}
